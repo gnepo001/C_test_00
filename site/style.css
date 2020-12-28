@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  background-color: black;
+}
+
+.Title {
+  color: yellow;
+  width: 200px;
+  margin: auto;
+}
