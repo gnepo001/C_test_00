@@ -1,0 +1,66 @@
+* {
+  font-size: 16px;
+  font-family: "Oxygen", sans-serif;
+}
+
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border-bottom: 3px solid;
+  margin-top: 0;
+  margin-right: 0;
+}
+
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-collapse .navbar-nav .text-center {
+  color: black;
+}
+
+.navbar-collapse .navbar-nav {
+  background-color: white;
+  margin-top: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-bottom: 0;
+}
+
+.navbar-fixed-bottom .navbar-nav > li > .dropdown-menu {
+  margin-bottom: 0;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: red;
+}
+
+#logo {
+  color: black;
+  text-decoration: none;
+}
+
+.navbar-brand span {
+  height: 50px;
+}
+
+#nav-list {
+  color: black;
+}
+
+.info-box {
+  background-color: grey;
+  width: 95%;
+  height: 50%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info-box h3 {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+}
