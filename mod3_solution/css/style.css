@@ -15,6 +15,11 @@
 .navbar-header .icon-bar {
   border: 1px solid black;
 }
+.navbar-brand h1 {
+  color: rgb(0, 0, 0);
+  font-size: 2em;
+  margin: 0px 25px 5px 25px;
+}
 
 .navbar-collapse .navbar-nav .text-center {
   color: black;
